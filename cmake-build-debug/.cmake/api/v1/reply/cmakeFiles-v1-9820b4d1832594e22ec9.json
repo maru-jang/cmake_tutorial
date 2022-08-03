@@ -1,0 +1,171 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "modules/CMakeLists.txt"
+		},
+		{
+			"path" : "modules/module1/CMakeLists.txt"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVConfig-version.cmake"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVModules.cmake"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVModules-debug.cmake"
+		},
+		{
+			"path" : "modules/module2/CMakeLists.txt"
+		},
+		{
+			"path" : "thirdparty/Eigen3/install/share/eigen3/cmake/Eigen3ConfigVersion.cmake"
+		},
+		{
+			"path" : "thirdparty/Eigen3/install/share/eigen3/cmake/Eigen3Config.cmake"
+		},
+		{
+			"path" : "thirdparty/Eigen3/install/share/eigen3/cmake/Eigen3Targets.cmake"
+		},
+		{
+			"path" : "modules/module3/CMakeLists.txt"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVConfig-version.cmake"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/203/bin/cmake/linux/share/cmake-3.23/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVModules.cmake"
+		},
+		{
+			"path" : "thirdparty/opencv/install/lib/cmake/opencv4/OpenCVModules-debug.cmake"
+		},
+		{
+			"path" : "thirdparty/Eigen3/install/share/eigen3/cmake/Eigen3ConfigVersion.cmake"
+		},
+		{
+			"path" : "thirdparty/Eigen3/install/share/eigen3/cmake/Eigen3Config.cmake"
+		},
+		{
+			"path" : "thirdparty/Eigen3/install/share/eigen3/cmake/Eigen3Targets.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/jang/Documents/cmake_tutorial/hello_cmake/cmake-build-debug",
+		"source" : "/home/jang/Documents/cmake_tutorial/hello_cmake"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,208 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "modules",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-modules-Debug-c4db38ae2d0bc927e52f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "modules"
+				},
+				{
+					"build" : "modules/module1",
+					"jsonFile" : "directory-modules.module1-Debug-e50f35ddeb5381e01ccf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "modules/module1",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "modules/module2",
+					"jsonFile" : "directory-modules.module2-Debug-4a6b42aeaf42a2ba0f95.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "modules/module2",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "modules/module3",
+					"jsonFile" : "directory-modules.module3-Debug-cfe78bd31f0181415f4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "modules/module3",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "hello_cmake",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "module1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "module2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "module3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exec_module1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exec_module1-Debug-0175d5fdaefcbe49dbee.json",
+					"name" : "exec_module1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exec_module1_module2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exec_module1_module2-Debug-871d83348433443d2299.json",
+					"name" : "exec_module1_module2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exec_module3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exec_module3-Debug-e5796aa40dee12de1c61.json",
+					"name" : "exec_module3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "module1::@9af30fd340da8f4bfef3",
+					"jsonFile" : "target-module1-Debug-d15b64f01b0b9766db31.json",
+					"name" : "module1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "module2::@d099830ac294d1289245",
+					"jsonFile" : "target-module2-Debug-bcc72a393464d872a902.json",
+					"name" : "module2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "module3::@fba5b853b15d94a86c92",
+					"jsonFile" : "target-module3-Debug-e5c95ead7fdc7b10d823.json",
+					"name" : "module3",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jang/Documents/cmake_tutorial/hello_cmake/cmake-build-debug",
+		"source" : "/home/jang/Documents/cmake_tutorial/hello_cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

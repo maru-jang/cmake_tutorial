@@ -1,0 +1,8 @@
+/snap/clion/203/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/203/bin/ninja/linux/ninja -G Ninja -S /home/jang/Documents/cmake_tutorial/hello_cmake -B /home/jang/Documents/cmake_tutorial/hello_cmake/cmake-build-debug
+-- OpenCV Found! - /home/jang/Documents/cmake_tutorial/hello_cmake/thirdparty/opencv/install/lib/cmake/opencv4
+-- Eigen3 Found! - /home/jang/Documents/cmake_tutorial/hello_cmake/thirdparty/Eigen3/install/share/eigen3/cmake
+-- OpenCV Found! - /home/jang/Documents/cmake_tutorial/hello_cmake/thirdparty/opencv/install/lib/cmake/opencv4
+-- Eigen3 Found! - /home/jang/Documents/cmake_tutorial/hello_cmake/thirdparty/Eigen3/install/share/eigen3/cmake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jang/Documents/cmake_tutorial/hello_cmake/cmake-build-debug

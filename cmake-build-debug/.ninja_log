@@ -1,0 +1,20 @@
+# ninja log v5
+171	208	1659438856082158811	hello_cmake	2123672d0b1798d
+0	167	1659439960925879547	CMakeFiles/hello_cmake.dir/examples/main.cpp.o	d448226dff2937c8
+1746	1823	1659495493766109782	exec_module1_module2	5dd55c3a3e36a476
+1223	1293	1659494416328954662	exec_module1	ac7a4221a880bba3
+0	19	1659496295109097250	build.ninja	bec04a066c25f8f7
+1208	1211	1659494416244956508	modules/module1/libmodule1.a	3523147481029ca7
+0	1207	1659494416240956596	modules/module1/CMakeFiles/module1.dir/src/ClassMat.cpp.o	468b474c57e0108e
+0	674	1659495157625127075	modules/module2/CMakeFiles/module2.dir/src/ClassEigenMat.cpp.o	eb36863328461e85
+674	678	1659495157633126906	modules/module2/libmodule2.a	1201b3db6eb55652
+0	171	1659438856042158255	CMakeFiles/hello_cmake.dir/main.cpp.o	c9d760bb790b1229
+0	1223	1659494416256956244	CMakeFiles/exec_module1.dir/examples/main.cpp.o	da7d41f32f9b04fa
+1	1746	1659495493686111449	CMakeFiles/exec_module1_module2.dir/examples/exec_module1_module2.cpp.o	d22119cb3c250158
+13	16	1659496000321589556	modules/module3/libmodule3.a	bea3af35a00afd23
+0	13	1659496000313589668	modules/module3/CMakeFiles/module3.dir/src/Class.cpp.o	f60eead1eb33bf05
+0	24	1659496295109097250	build.ninja	bec04a066c25f8f7
+0	1863	1659496296977066891	modules/module3/CMakeFiles/module3.dir/src/Class.cpp.o	f60eead1eb33bf05
+1863	1867	1659496296981066826	modules/module3/libmodule3.a	bea3af35a00afd23
+1	1675	1659496301912986570	CMakeFiles/exec_module3.dir/examples/exec_module3.cpp.o	a3f119fc4112cf4d
+1675	1751	1659496301988985333	exec_module3	1ae03da420d7c879
