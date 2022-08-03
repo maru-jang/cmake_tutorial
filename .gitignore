@@ -7,5 +7,5 @@
 *.zip
 
 ## 폴더 무시
-build/
-install/
+Eigen3/
+opencv/
